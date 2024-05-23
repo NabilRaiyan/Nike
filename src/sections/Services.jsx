@@ -2,7 +2,7 @@
 const Services = () => {
   return (
     <div>
-      Hero
+      Services
     </div>
   )
 }
