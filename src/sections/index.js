@@ -5,7 +5,7 @@ import Services from './Services';
 import SpecialOffer from './SpecialOffer';
 import Footer from './Footer';
 import CustomerReviews from './CustomerReviews';
-import PopularProduct from './PopularProduct';
+import PopularProducts from './PopularProducts';
 
 
 export {
@@ -16,5 +16,5 @@ export {
     SuperQuality,
     Footer,
     CustomerReviews,
-    PopularProduct
+    PopularProducts
 }
