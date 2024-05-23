@@ -16,5 +16,5 @@ export {
     SuperQuality,
     Footer,
     CustomerReviews,
-    PopularProduct,
+    PopularProduct
 }
