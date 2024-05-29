@@ -1,9 +1,9 @@
 
 const CustomerReviews = () => {
   return (
-    <div>
-      CustomerReviews
-    </div>
+    <section className="">
+
+    </section>
   )
 }
 
