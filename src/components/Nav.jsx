@@ -2,6 +2,7 @@ import {headerLogo} from '../assets/images';
 import {hamburger} from '../assets/icons';
 import { navLinks } from '../constants/index';
 
+// Navbar
 const Nav = () => {
   return (
     <div>
