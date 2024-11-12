@@ -5,6 +5,7 @@ import { bigShoe1 } from "../assets/images";
 import ShoeCard from '../components/ShoeCard';
 import {useState} from 'react';
 
+// Hero section
 const Hero = () => {
 
   const [bigShoeImg, setBigShoeImg] = useState(bigShoe1);
