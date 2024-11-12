@@ -1,5 +1,6 @@
 
 
+// Creating button
 const Button = ({label, iconURL, backgroundColor, textColor, borderColor, fullWidth}) => {
   return (
     <div>
