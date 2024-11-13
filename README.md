@@ -41,9 +41,21 @@ Check out the live demo of the project:
 #### 1. Follow these steps to get the project running locally:
 
 ```
-  git clone https://github.com/your-username/nike-landing-page.git
+  https://github.com/NabilRaiyan/Nike-Landing-Page.git
   cd nike-landing-page
 ```
+
+#### 2. Install dependencies:
+
+```npm install```
+
+#### 3. Start the development server:
+
+```npm run dev```
+
+## 🖥️ Usage
+- Navigate to ```http://localhost:5173/``` in your browser to see the landing page.
+- The page includes sections for hero section, popular products, special offers, and footer.
 
 
 
