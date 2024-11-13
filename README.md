@@ -17,10 +17,9 @@ Check out the live demo of the project:
 
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [License](#-license)
 
 
 ## ✨ Features
