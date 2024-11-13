@@ -15,8 +15,8 @@ Check out the live demo of the project:
 
 ## 📚 Table of Contents
 
-- [Features](#features)
-- [Tech Stack](#tech-stack)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
