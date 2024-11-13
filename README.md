@@ -58,6 +58,13 @@ Check out the live demo of the project:
 - The page includes sections for hero section, popular products, special offers, and footer.
 
 
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+#### ⭐ If you like this project, please give it a star on GitHub! ⭐
+
+
+
 
 
 
