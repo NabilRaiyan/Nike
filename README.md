@@ -40,6 +40,11 @@ Check out the live demo of the project:
 
 #### 1. Follow these steps to get the project running locally:
 
+```
+  git clone https://github.com/your-username/nike-landing-page.git
+  cd nike-landing-page
+```
+
 
 
 
