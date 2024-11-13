@@ -15,12 +15,33 @@ Check out the live demo of the project:
 
 ## 📚 Table of Contents
 
-- [Features](#-features)
+- [Features](#features)
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
+
+
+## ✨ Features
+- Modern and responsive UI design
+- Built with React.js and Vite for fast development
+- Styled using Tailwind CSS for a sleek look
+- Smooth animations and transitions
+- Fully responsive and mobile-friendly
+
+## 🛠️ Tech Stack
+- React.js - Frontend library
+- Vite - Fast development build tool
+- Tailwind CSS - Utility-first CSS framework
+
+## 📦 Installation
+### Follow these steps to get the project running locally:
+
+#### 1. Follow these steps to get the project running locally:
+
+
+
 
 
 
