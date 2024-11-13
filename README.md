@@ -13,6 +13,16 @@
 ## 🚀 Demo
 Check out the live demo of the project: 
 
+## 📚 Table of Contents
+
+- [Features](#-features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+
+
 
 
 
