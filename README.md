@@ -29,7 +29,7 @@ Check out the live demo of the project:
 - Smooth animations and transitions
 - Fully responsive and mobile-friendly
 
-## 🛠️ Tech-Stack
+## 🛠️ Tech Stack
 - React.js - Frontend library
 - Vite - Fast development build tool
 - Tailwind CSS - Utility-first CSS framework
