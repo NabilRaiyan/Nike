@@ -11,7 +11,7 @@
 <img width="1410" alt="Screenshot 2024-11-13 at 10 00 02 PM" src="https://github.com/user-attachments/assets/9da043a3-2222-495d-9501-109f1803deed">
 
 ## 🚀 Demo
-Check out the live demo of the project: <a href="https://nike-raiyan.onrender.com">Nike Store Live Demo</a>
+Check out the live demo of the project: <a href="https://nike-raiyan.onrender.com" target="_blank">Nike Store Live Demo</a>
 
 ## 📚 Table of Contents
 
